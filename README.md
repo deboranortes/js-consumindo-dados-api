@@ -17,4 +17,4 @@ Projeto desenvolvido com base no curso "JavaScript: Consumindo e tratando dados 
 
 ## Demonstração
 
-[![Demo](caminho_do_seu_gif)](https://github.com/deboranortes/js-consumindo-dados-api)
+[![Demo](formulario-de-cadastro.gif)](https://github.com/deboranortes/js-consumindo-dados-api)
